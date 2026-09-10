@@ -44,11 +44,44 @@ void main() {
   // }
 
   // for in
-  List datamhs = ['Denii', 'Windy', 'Rizky', 'Dimas'];
-  for (var element in datamhs) {
-    if (element == 'Denii') {
-      print('Ini Deni');
-    }
-    print(element);
-  }
+  // List datamhs = ['Denii', 'Windy', 'Rizky', 'Dimas'];
+  // for (var element in datamhs) {
+  //   if (element == 'Denii') {
+  //     print('Ini Deni');
+  //   }
+  //   print(element);
+  // }
+
+  // foreach
+  // List datamhs = ['Denii', 'Windy', 'Rizky', 'Dimas'];
+  // datamhs.forEach((a) {
+  //   print(a);
+  //   if (a == 'Denii'){
+  //      print(a);
+  //   }
+  // });
+
+  // while 
+  // var nilai = 0;
+  // while (nilai < 5) {
+  //   print('nilai $nilai');
+  //   nilai++;
+  // }
+
+  
+  // List datamhs = ['Denii', 'Windy', 'Rizky', 'Dimas'];
+  // var index = 0;
+  // while (index < datamhs.length) {
+  //   print(datamhs[index]);
+  //   index++;
+  // }
+
+  // do while
+  // List datamhs = ['Denii', 'Windy', 'Rizky', 'Dimas'];
+  // var index = 0;
+  // do {
+  //   print(datamhs[index]);
+  //   index++;
+  // } while (index < datamhs.length);
+
 }
