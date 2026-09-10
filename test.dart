@@ -61,14 +61,13 @@ void main() {
   //   }
   // });
 
-  // while 
+  // while
   // var nilai = 0;
   // while (nilai < 5) {
   //   print('nilai $nilai');
   //   nilai++;
   // }
 
-  
   // List datamhs = ['Denii', 'Windy', 'Rizky', 'Dimas'];
   // var index = 0;
   // while (index < datamhs.length) {
@@ -84,4 +83,11 @@ void main() {
   //   index++;
   // } while (index < datamhs.length);
 
+  // stdout.writeln("Masukkan angka pertama: ");
+  // var inputuser1 = stdin.readLineSync()!;
+  // stdout.writeln("Masukkan angka kedua: ");
+  // var inputuser2 = stdin.readLineSync()!;
+
+  // num hasil = int.parse(inputuser1) + int.parse(inputuser2);
+  // print("Hasil penjumlahan: $hasil");
 }
