@@ -1,0 +1,54 @@
+void main() {
+  // int nilai = 85;
+  // if (nilai >= 90) {
+  //   print('nilai diatas 85');
+  // }
+
+  // if (nilai > 85) {
+  //   print('nilai diatas 85');
+  // } else {
+  //   print('nilai dibawah 85');
+  // }
+
+  // if (nilai > 85) {
+  //   print('nilai diatas 85')
+  // }
+  // if (nilai < 85) {
+  //   print('nilai dibawah 85');
+  // }
+  // var nilai = 'A';
+  // switch (nilai) {
+  //   case 'A':
+  //     print('nilai diatas adalah A');
+  //     break;
+  //   case 'B':
+  //     print('nilai diatas adalah B');
+  //     break;
+  //   case 'C':
+  //     print('nilai diatas adalah C');
+  //     break;
+  //   default:
+  //     print('nilai diluar pilihan');
+  // }
+  // for (var i = 0; i < 10; i++) {
+  //   print('nilai $i');
+  // }
+
+  // List datamhs = ['Denii', 'Windy', 'Rizky', 'Dimas'];
+  // for (var i = 0; i < datamhs.length; i++) {
+  //   print('nama mahasiswa ${datamhs[i]}');
+  // }
+
+  // if (i == 0) {
+  //   print('Ini Deni');
+  // }
+
+  // for in
+  List datamhs = ['Denii', 'Windy', 'Rizky', 'Dimas'];
+  for (var element in datamhs) {
+    if (element == 'Denii') {
+      print('Ini Deni');
+    }
+    print(element);
+  }
+}
